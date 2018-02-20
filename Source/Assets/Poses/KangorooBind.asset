@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: KangorooBind
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Bones/Hip
+    localPosition: {x: -0.03643799, y: -0.41578293, z: 0}
+    localRotation: {x: -0.70359325, y: -0.71060294, z: 0, w: 0}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Torso
+    localPosition: {x: 0.5756871, y: 0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.002929045, w: 0.99999577}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Torso/Head
+    localPosition: {x: 1.7384155, y: 3.4965808e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.0000010777208, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Torso/R Arm1
+    localPosition: {x: 1.4156315, y: -0.58297884, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9962037, w: -0.08705245}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/Torso/R Arm1/R Arm2
+    localPosition: {x: 0.7245025, y: 0.0000028014183, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.25758332, w: 0.96625614}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/L Leg1
+    localPosition: {x: 0.24410167, y: 0.24507706, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.99952585, w: 0.030791378}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/L Leg1/L Leg2
+    localPosition: {x: 1.0982119, y: -0.000063776955, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7256864, w: 0.68802565}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/R Leg1
+    localPosition: {x: 0.2501576, y: -0.27518266, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9980681, w: -0.0621292}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Hip/R Leg1/R Leg2
+    localPosition: {x: 1.0938528, y: 0.000057876085, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.72668236, w: 0.6869737}
+    localScale: {x: 1, y: 1, z: 1}
