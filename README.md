@@ -1,6 +1,13 @@
 # Caroline-Game
 Game created for the course of Videogame and Design in Politecnico of Milan
 
+## Attention: Clone the repository, not download it or you can't download everything
+
+### This repository include:
+* Source code
+* Executables for Windows, Linux and Mac
+* Video trailer and video gameplay
+
 ### Short description
 
 This is a kid's puzzle game, you have to help lost Caroline find her way home.
